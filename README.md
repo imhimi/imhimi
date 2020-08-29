@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm [Himanshu Sharma](https://imhimanshu.com), a Full Stack Developer 🚀 from India, currently, I'm a Team Member 🙍🏽‍♂️ [@CoopeHire](https://github.com/cooperhire) and Mindmatch 👨🏽‍💼[@BITSoC](https://github.com/mindmatch). Well-organised person, problem solver, independent employee with high attention to detail. Fan of Music, TV series and Travelling. A single boy with small family, therefore remote employment is preferred.
+
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imhimi&show_icons=true&theme=gotham" alt="imhimii" />
