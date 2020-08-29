@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hello Folks 👋
 
-Hi, I'm [Himanshu Sharma](https://imhimanshu.com), a Full Stack Developer 🚀 from India, I'm currently working for [@CooperHire](https://github.com/cooperhire) and Mindmatch [@MindMatch](https://github.com/mindmatch) . Well-organised person, problem solver, independent employee with high attention to detail. Fan of Music, TV series and Travelling. A single boy with small family, therefore remote employment is preferred.
+I'm [Himanshu Sharma](https://imhimanshu.com), a Full Stack Developer 🚀, I'm currently working for [@CooperHire](https://github.com/cooperhire) and [@MindMatch](https://github.com/mindmatch). 
+
+Committed to create beautiful easy-to-use applications based on your requirements. I am constantly innovating and learning new technologies to be able to advise and help you grow.
+
+Well-organised person, problem solver, independent employee with high attention to detail. Fan of Music, TV series and Travelling. A single boy with small family, therefore remote employment is preferred.
 
 📊 **This Week I Spent My Time On:**
 
