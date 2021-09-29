@@ -1,6 +1,6 @@
 ### Hello Folks 👋
 
-I'm [Himanshu Sharma](https://imhimanshu.com), a Full Stack Developer 🚀, I'm currently working for [@CooperHire](https://github.com/cooperhire) and [@MindMatch](https://github.com/mindmatch). 
+I'm [Himanshu Sharma](https://imhimanshu.com), a Full Stack Developer 🚀, I'm currently working for [@CooperHire](https://github.com/cooper-io) and [@MindMatch](https://github.com/mindmatch). 
 
 Committed to create beautiful easy-to-use applications based on your requirements. I am constantly innovating and learning new technologies to be able to advise and help you grow.
 
