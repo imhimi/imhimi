@@ -4,7 +4,7 @@ I'm [Himanshu Sharma](https://imhimanshu.com), a Full Stack Developer 🚀, I'm 
 
 Committed to create beautiful easy-to-use applications based on your requirements. I am constantly innovating and learning new technologies to be able to advise and help you grow.
 
-Well-organised person, problem solver, independent employee with high attention to detail. Fan of Music, TV series and Travelling. A single boy with small family, therefore remote employment is preferred.
+Well-organised person, problem solver, independent employee with high attention to detail. Fan of Music, TV series and Travelling.
 
 📊 **This Week I Spent My Time On:**
 
